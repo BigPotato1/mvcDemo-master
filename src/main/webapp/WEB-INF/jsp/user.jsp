@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>user</title>
+    <title>user_info</title>
 </head>
 <body>
     id:${requestScope.user.id}<br/>
